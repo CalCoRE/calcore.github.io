@@ -11,7 +11,7 @@ tags:
   - teachers
 ---
 
-Data Launchpads are highly interactive documents built inside the Common Online Data Analysis Platform (CODAP) that act as scaffolded "on-ramps" for students exploring complex public datasets. Each launchpad features built-in background information, multimedia context-setters, data activators, and guided tutorials on graphs, maps, and filtering.
+Data Launchpads are highly interactive documents built inside the Common Online Data Analysis Platform (CODAP) using the Story Builder plugin. Launchpads act as scaffolded "on-ramps" for students exploring complex public datasets. Each launchpad features built-in background information, multimedia context-setters, data activators, and guided tutorials on graphs, maps, and filtering.
 
 **Intended Audience & Use Case:** 
 Designed for middle and high school math, science, and social studies educators. They serve as guided classroom demonstrations or initial structured activities to help students build confidence in data analysis tools prior to self-directed inquiry.
@@ -27,3 +27,6 @@ Designed for middle and high school math, science, and social studies educators.
     A global epidemiological dataset tracking virus spread patterns and disparities.
 *   **[Spotify/Billboard Hot 100 Launchpad](/blog/wds-launchpads-spotify/)**  
     A cultural data set allowing students to filter and analyze decades of popular music trends.
+
+**Associated Publications**
+Learn more about the Story Builder plugin in: Wilkerson, M. H., Finzer, W., Erickson, T., & Hernandez, D. (2021). Reflective Data Storytelling for Youth: The CODAP Story Builder. _Proceedings of Interaction Design and Children_, 503–507. https://doi.org/10.1145/3459990.3465177

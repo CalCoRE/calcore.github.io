@@ -9,6 +9,4 @@ categories:
   - news
 ---
 
-Congratulations to Helen Fitzmaurice, who received a **Best Paper Award** at the **2024 Annual Meeting of the International Society for the Learning Sciences (ISLS)**! 
-
-Her paper, focusing on the *Oakland Teachers Advancing Climate Action (OTACA)* initiative, explores how collaborative design partnerships with local educators support classroom projects that connect climate science data to environmental justice themes. Her work highlights the power of making environmental telemetry local, active, and relevant for students.
+Congratulations to Helen Fitzmaurice, who received a **Best Paper Award** at the **2024 Annual Meeting of the International Society for the Learning Sciences (ISLS)**! Check out the winning paper, [Activism or Bureaucracy: What Are We Teaching Students Through Local Climate Action Projects?](https://repository.isls.org/handle/1/11172).

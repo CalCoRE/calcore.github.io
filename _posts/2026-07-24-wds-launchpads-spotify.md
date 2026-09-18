@@ -18,3 +18,6 @@ Designed for middle and high school math, statistics, and humanities teachers. I
 
 ### Access the Resource
 *   [Interactive Spotify/Billboard CODAP Launchpad](https://codap.concord.org/app/static/dg/en/cert/index.html#shared=https%3A%2F%2Fcfm-shared.concord.org%2FHToPHXRqcUKYwdL8KJSJ%2Ffile.json)
+
+**Associated Publications** 
+The Billboard Hot 100 Launchpad is featured in: Wilkerson, M. H., Erickson, T., Lee, H. S., & Finzer, W. (2026). How to be “Choosy”: Wrangling big datasets for the classroom. _Teaching Statistics, 48_(1), 76–96. https://doi.org/10.1111/test.70022

@@ -13,12 +13,15 @@ tags:
   - data-analysis
 ---
 
-DataBytes are quick, bite-sized classroom activities (designed to take 30 minutes or less) that encourage students to interpret and analyze data visualizations related to everyday scientific issues. Sourced from news media and scientific agency reports, each lesson provides classroom slides, discussion prompts, and teacher guides.
+DataBytes are quick, bite-sized classroom activities (designed to take 30 minutes or less) that encourage students to interpret and analyze data visualizations related to everyday scientific issues. The resources include several specific lessons focused on visualizations sourced from news media and scientific agency reports, as well as a general framework and DIY guide for teachers to create their own DataBytes activities.
 
 **Intended Audience & Use Case:** 
-Designed for middle school math and science teachers seeking quick computational warm-ups or introductory data literacy exercises. It acts as an easy "on-ramp" for incorporating data-centric discussions without requiring extensive class time or programming setup.
+Designed for middle school math and science teachers seeking quick warm-ups or introductory data literacy exercises. It acts as an easy "on-ramp" for incorporating data-centric discussions without requiring extensive class time.
 
-### Available Databytes Activities
+### DIY Discussion Framework
+To implement these in class, review the official [DataBytes Discussion Structure Guide (Google Doc)](https://docs.google.com/document/d/1tAnSAZuxPKW8pigpWvjVDd8RlgH0UQ7N4DUVzceWw44/edit).
+
+### Example Databytes Activities
 *   **Lesson 1: Exploring Carbon Dioxide & Costs for Vehicles**  
     [Teacher Guide (PDF)](https://drive.google.com/file/d/1BobI3dWw2nmvXapFA8EvDnYc3slOxgPW/view?usp=share_link) | [Student Slides](https://docs.google.com/presentation/d/1WXvaNshfWfie6AnaQiKtFO8Kg84bNauDhiCfajz-3H8/edit?usp=sharing)
 *   **Lesson 2: Climate Threats**  
@@ -36,5 +39,5 @@ Designed for middle school math and science teachers seeking quick computational
 *   **Lesson 8: Examining Cereal Data**  
     [Teacher Guide (PDF)](https://drive.google.com/file/d/1gKenKQNlPT8ner0h1OK9TTFBEwEgGhQp/view?usp=share_link) | [Student Slides](https://docs.google.com/presentation/d/16QA045KQI_A5nHhjtEIakNzypXw-ioxu_VvwuzAi1eM/edit?usp=sharing) | [Interactive CODAP Dataset](https://docs.google.com/presentation/d/1AQfw0Wr_iXsBAJhEifDvG5VdY2lC1a8crvK1t07UhY8/edit?pli=1#slide=id.gd8993304ce_0_2)
 
-### Discussion Framework
-To implement these in class, review the official [DataBytes Discussion Structure Guide (Google Doc)](https://docs.google.com/document/d/1tAnSAZuxPKW8pigpWvjVDd8RlgH0UQ7N4DUVzceWw44/edit).
+    **Associated Publications**
+    Interviews with teachers as they review DataBytes activities are described in: Wilkerson, M.H., Kim, J., Lee, H.S. et al. How Teachers Envision Using Data Visualization Discussion Tasks in Classroom Instruction. _International Journal of Science and Mathematics Education, 23_, 2653–2687 (2025). https://doi.org/10.1007/s10763-024-10521-y 
