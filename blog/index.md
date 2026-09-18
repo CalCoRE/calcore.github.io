@@ -1,5 +1,6 @@
 ---
 title: Resources
+permalink: /resources/
 nav:
   order: 1
   tooltip: Curriculum, Guides, Datasets, and Code!
