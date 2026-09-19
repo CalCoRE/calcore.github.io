@@ -12,6 +12,8 @@ links:
   github: CalCoRE
 
 ### jekyll settings
+baseurl: ""
+url: "calcore.github.io"
 
 # front matter defaults
 defaults:
