@@ -7,7 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our research and development initiatives span classroom-ready software design, empirical data science curriculum development, and teacher professional training. Explore our featured projects and tools below.
 
 {% include tags.html tags="publication, resource, website" %}
 

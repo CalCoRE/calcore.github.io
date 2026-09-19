@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you have questions about our research projects, want to collaborate on new educational designs, or are interested in using our teaching resources, please reach out to us.
+If you have questions about our research projects, want to collaborate, or are interested in using our teaching resources, please reach out to us.
 
 {%
   include button.html
@@ -44,7 +44,7 @@ Berkeley, CA 94720
 {% capture col2 %}
 **General Inquiries**  
 For general questions or partnership opportunities, email us at:  
-[cal-core@berkeley.edu](mailto:cal-core@berkeley.edu)  
+[cal-core@berkeley.edu](mailto:core-lab@berkeley.edu)  
 {% endcapture %}
 
 {% capture col3 %}

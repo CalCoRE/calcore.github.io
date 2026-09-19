@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-The CoRE Lab is composed of educational researchers, computer scientists, and design specialists dedicated to developing expressive statistical computing environments and curriculum designs for classrooms. Meet our team members below.
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role != 'alumni'" %}
