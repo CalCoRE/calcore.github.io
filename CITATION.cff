@@ -1,17 +1,11 @@
 # citation metadata for the template itself
 
-title: "Lab Website Template"
-version: 1.3.9
-date-released: 2026-06-02
-url: "https://github.com/greenelab/lab-website-template"
+title: "CoRE Lab Website (based off Greene Lab Website Template)"
+version: 1.0
+date-released: 2026-09-19
+url: "https://calcore.github.io"
 authors:
-  - family-names: "Rubinetti"
-    given-names: "Vincent"
-    orcid: "https://orcid.org/0000-0002-4655-3773"
-  - family-names: "Greene"
-    given-names: "Casey"
-    orcid: "https://orcid.org/0000-0001-8713-9213"
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.17228741
+  - family-names: "Wilkerson"
+    given-names: "Michelle"
+    orcid: "https://orcid.org/0000-0001-8250-068X"
 cff-version: 1.2.0
