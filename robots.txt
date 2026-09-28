@@ -1,1 +1,1 @@
-Sitemap: https://calcore.github.io/sitemap.xml
+Sitemap: https://corelab.berkeley.edu/sitemap.xml
