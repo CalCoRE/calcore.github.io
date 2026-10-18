@@ -1,5 +1,8 @@
 # ADDING IMAGES TO PUBLICATIONS
 
+- id: doi:10.1080/07370008.2026.2727345
+  image: /images/pubs/cog-inst.jpg
+
 - id: doi:10.1016/j.ijcci.2026.100819
   date: '2026-04-10'
   image: /images/pubs/ijcci.jpg
