@@ -15,6 +15,24 @@
   plugin: sources.py
   file: sources.yaml
   image: /images/pubs/zdm.jpg
+- id: doi:10.1080/07370008.2026.2727345
+  title: 'Syncretic Data Storytelling: Building Relationships with Data to Foster
+    Consequential Learning'
+  authors:
+  - Emily V. Reigh
+  - Cherise McBride
+  - "Meg Escud\xE9"
+  - Collette Roberto
+  - "Kris Guti\xE9rrez"
+  - Michelle Hoda Wilkerson
+  publisher: Cognition and Instruction
+  date: '2026-09-22'
+  link: https://doi.org/hcn7m8
+  orcid: 0000-0001-8250-068X
+  michelle-wilkerson: true
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/pubs/cog-inst.jpg
 - id: doi:10.1111/test.70022
   title: "How to be \u201CChoosy\u201D: Wrangling big datasets for the classroom"
   authors:
@@ -585,22 +603,6 @@
   michelle-wilkerson: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1080/07370008.2026.2727345
-  title: 'Syncretic Data Storytelling: Building Relationships with Data to Foster
-    Consequential Learning'
-  authors:
-  - Emily V. Reigh
-  - Cherise McBride
-  - "Meg Escud\xE9"
-  - Collette Roberto
-  - "Kris Guti\xE9rrez"
-  - Michelle Hoda Wilkerson
-  publisher: Cognition and Instruction
-  date: '2026-09-22'
-  link: https://doi.org/hcn7m8
-  image: /images/pubs/cog-inst.jpg
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.ijcci.2026.100819
   title: 'Designing MoDa: A new tool for science learning through data-based computational
     modeling'
